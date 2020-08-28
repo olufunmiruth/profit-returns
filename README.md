@@ -8,7 +8,7 @@ From your predictions, Chief Babatunji will understand the key characteristics o
 ou have been provided with transactional records of all the stores at product level. Due to power failure and technical glitches, some stores might not report all data, hence the data may have missing values.
 
 Variable Description
-    Item_ID: Unique product ID
+    -Item_ID: Unique product ID
     Item_Weight: Weight of the product
     Item_Sugar_Content: Sugar content of the product
     Item_Visibility: The percentage of total display area of all products in Chief Babatunji’s supermarket allocated to the particular product
